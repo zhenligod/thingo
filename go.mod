@@ -3,7 +3,6 @@ module github.com/zhenligod/thingo
 go 1.13
 
 require (
-	github.com/daheige/thingo v1.12.21
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/go-resty/resty/v2 v2.3.0
